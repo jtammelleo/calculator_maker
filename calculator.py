@@ -16,11 +16,11 @@ def subtract(a,b):
 
 #Square
 def square(a):
-	return a^2
+	return a * a
 
 #Cube
 def cube(a):
-	return a^3
+	return a * a * a
 
 print("I'm going use the calculator functions to multiply 5 and 6")
 m = multiply(5,6)
