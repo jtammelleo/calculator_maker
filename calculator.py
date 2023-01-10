@@ -37,3 +37,11 @@ print(z)
 print("I'm going use the calculator functions to subtract 5 and 6")
 s = subtract(5,6)
 print(s)
+
+print("I'm going use the calculator functions to square 5")
+q = square(5)
+print(q)
+
+print("I'm going use the calculator functions to cube 5")
+c = cube(5)
+print(c)
