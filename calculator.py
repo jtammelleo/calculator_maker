@@ -14,18 +14,26 @@ def add(a,b):
 def subtract(a,b):
 	return a - b
 
+#Square
+def square(a):
+	return a^2
+
+#Cube
+def cube(a):
+	return a^3
+
 print("I'm going use the calculator functions to multiply 5 and 6")
-a = multiply(5,6)
-print(a)
+m = multiply(5,6)
+print(m)
 
 print("I'm going use the calculator functions to divide 5 and 6")
-b = divide(5,6)
-print(b)
+d = divide(5,6)
+print(d)
 
 print("I'm going use the calculator functions to add 5 and 6")
-c = add(5,6)
-print(c)
+z = add(5,6)
+print(z)
 
 print("I'm going use the calculator functions to subtract 5 and 6")
-d = subtract(5,6)
-print(d)
+s = subtract(5,6)
+print(s)
