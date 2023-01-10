@@ -22,6 +22,10 @@ def square(a):
 def cube(a):
 	return a * a * a
 
+#Square_n_times
+def sqn(a,b):
+	return a**b
+
 print("I'm going use the calculator functions to multiply 5 and 6")
 m = multiply(5,6)
 print(m)
